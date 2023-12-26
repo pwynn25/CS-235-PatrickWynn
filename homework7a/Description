@@ -1,0 +1,8 @@
+This homework required us to compile a few data structures we had created ove the course of the semester and compare their relative
+sorting speeds
+HashSet.h
+AVLTree.h
+BST.h
+VectorSet.h
+* the only files I wrote code in are above
+I do understand all functions whether I wrote them or not
